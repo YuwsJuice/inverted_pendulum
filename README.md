@@ -12,14 +12,7 @@ The goal is to develop a stable inverted pendulum setup by designing a classic P
 - Apply control methods and techniques to the inverted pendulum system
 - disturbance rejection, robustness, and swing-up
 
-# 1.3 Scope and Limitations
-This study focuses on the modeling and control of a nonlinear single inverted pendulum system, aiming to achieve stabilization with a comparison of PID and LQR control techniques. The scope includes both MATLAB-based simulations and the development of a physical prototype to validate the simulation results. Key performance metrics, such as response time and system stability, will be analyzed to assess the effectiveness of control methods.
-
-### Limitations:
-- **Modeling Assumptions:** The mathematical model used for simulation will incorporate ideal conditions, excluding real-world factors such as friction and air resistance. This means that the physical system may exhibit slight deviations from simulated performance.
-- **Single Pendulum Focus:** The project will be limited to a single inverted pendulum system and will not explore multi-link or double pendulum dynamics, restricting the findings to simpler configurations.
-
-# 1.4 Materials and Component Specifications
+# 1.3 Materials and Component Specifications
 
 ### GT2 Timing Pulleys
 ![](images/GT2_timing_pulley.png)
