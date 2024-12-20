@@ -29,6 +29,7 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 
 ### Motor Large Current Driver Module
 ![](images/motor_driver.png)
+
 **SPECIFICATIONS:**
 - Input voltage: 6V-27V
 - Model: IBT-2
@@ -42,6 +43,7 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 
 ### Photoelectric Incremental Rotary Encoder (5V-24V)
 ![](images/incremental_rotary_encoder.png)
+
 **SPECIFICATIONS:**
 - Power source: DC5-24V
 - Shaft: 6*13mm / 0.23*0.51"
@@ -57,7 +59,8 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 - Material: Rubber
 
 ### ESP32 Development Board
+![](images/esp32.png)
 
 ### Arduino UNO R3
-
+![](images/arduino_uno.png)
 
