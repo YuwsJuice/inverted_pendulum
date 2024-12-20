@@ -22,6 +22,8 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 # 1.4 Materials and Component Specifications
 
 ### GT2 Timing Pulleys
+![GT2_timing_pulley](images/GT2_timing_pulley.png)
+
 - 1 x 30T/5mm Timing Pulley
 - 1 x 60T/5mm Timing Pulley
 
