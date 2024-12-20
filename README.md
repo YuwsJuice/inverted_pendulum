@@ -28,6 +28,7 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 - 1 x 60T/5mm Timing Pulley
 
 ### Motor Large Current Driver Module
+![](images/motor_driver.png)
 **SPECIFICATIONS:**
 - Input voltage: 6V-27V
 - Model: IBT-2
@@ -37,8 +38,10 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 - Duty cycle: 0-100%
 
 ### Linear Rail Shaft Support 8MM SK8
+![](images/linear_shaft_rail_support.png)
 
 ### Photoelectric Incremental Rotary Encoder (5V-24V)
+![](images/incremental_rotary_encoder.png)
 **SPECIFICATIONS:**
 - Power source: DC5-24V
 - Shaft: 6*13mm / 0.23*0.51"
@@ -48,6 +51,7 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 - Response frequency: 0-20KHz
 
 ### GT2-6mm Open Timing Belt
+![](images/timing_belt.png)
 - Width: 6mm
 - Pitch: 2.0mm
 - Material: Rubber
