@@ -3,7 +3,7 @@ The control of nonlinear dynamic systems is a central challenge in engineering. 
 
 This project aims to demonstrate the modeling and control of a nonlinear inverted pendulum system with the help of MATLAB simulation. By focusing on the development of a dynamic model and the application of control laws, such as the Proportional-Integral-Derivative (PID) controller and Linear Quadratic Regulator (LQR), this work seeks to provide a comprehensive approach to stabilizing the inverted pendulum system.
 
-# Objectives
+# 1.2 Objectives
 The goal is to develop a stable inverted pendulum setup by designing a classic PID-controller and a model-based controller to maintain the pendulum in a vertical position around the center of the horizontal transport rail.
 
 ### Checklist:
@@ -12,7 +12,7 @@ The goal is to develop a stable inverted pendulum setup by designing a classic P
 - Apply control methods and techniques to the inverted pendulum system such as swing up stabilisation
 - disturbance rejection, robustness, and swing-up
 
-# Scope and Limitations
+# 1.3 Scope and Limitations
 This study focuses on the modeling and control of a nonlinear single inverted pendulum system, aiming to achieve stabilization with a comparison of PID and LQR control techniques. The scope includes both MATLAB-based simulations and the development of a physical prototype to validate the simulation results. Key performance metrics, such as response time and system stability, will be analyzed to assess the effectiveness of control methods.
 
 ### Limitations:
