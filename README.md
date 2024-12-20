@@ -19,3 +19,39 @@ This study focuses on the modeling and control of a nonlinear single inverted pe
 - **Modeling Assumptions:** The mathematical model used for simulation will incorporate ideal conditions, excluding real-world factors such as friction and air resistance. This means that the physical system may exhibit slight deviations from simulated performance.
 - **Single Pendulum Focus:** The project will be limited to a single inverted pendulum system and will not explore multi-link or double pendulum dynamics, restricting the findings to simpler configurations.
 
+# 1.4 Materials and Component Specifications
+
+### GT2 Timing Pulleys
+- 1 x 30T/5mm Timing Pulley
+- 1 x 60T/5mm Timing Pulley
+
+### Motor Large Current Driver Module
+**SPECIFICATIONS:**
+- Input voltage: 6V-27V
+- Model: IBT-2
+- Maximum current: 43A
+- Input level: 3.3-5V
+- Control mode: PWM or level
+- Duty cycle: 0-100%
+
+### Linear Rail Shaft Support 8MM SK8
+
+### Photoelectric Incremental Rotary Encoder (5V-24V)
+**SPECIFICATIONS:**
+- Power source: DC5-24V
+- Shaft: 6*13mm / 0.23*0.51"
+- Size: 38*35.5mm / 1.49*1.39"
+- Output: AB 2-phase output rectangular orthogonal pulse circuit, NPN open collector output type
+- Maximum mechanical speed: 5000 RPM
+- Response frequency: 0-20KHz
+
+### GT2-6mm Open Timing Belt
+- Width: 6mm
+- Pitch: 2.0mm
+- Material: Rubber
+
+### ESP32 Development Board
+
+### Arduino UNO R3
+
+
