@@ -9,7 +9,7 @@ The goal is to develop a stable inverted pendulum setup by designing a classic P
 ### Checklist:
 - Model and simulate an inverted pendulum system
 - Design and develop an inverted pendulum system
-- Apply control methods and techniques to the inverted pendulum system such as swing up stabilisation
+- Apply control methods and techniques to the inverted pendulum system
 - disturbance rejection, robustness, and swing-up
 
 # 1.3 Scope and Limitations
