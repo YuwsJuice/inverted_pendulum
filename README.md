@@ -1,3 +1,8 @@
+
+![Project Demo](demo/inverted_pendulum.gif)
+
+
+
 # 1.1 Background
 The control of nonlinear dynamic systems is a central challenge in engineering. Among such systems, the inverted pendulum stands as a classic problem, exemplifying the difficulties of controlling inherently unstable systems with nonlinear dynamics. Characterized by its open-loop and closed-loop instability, the inverted pendulum has become a fundamental benchmark in control engineering. It is widely used to test, evaluate, and refine both classical and contemporary control techniques. 
 
