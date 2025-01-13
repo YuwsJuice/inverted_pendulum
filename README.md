@@ -1,4 +1,4 @@
-
+![Swingup](demo/inverted_pendulum_swingup.gif)
 ![Project Demo](demo/inverted_pendulum.gif)
 
 
