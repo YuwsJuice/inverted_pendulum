@@ -1,7 +1,4 @@
 ![Swingup](demo/inverted_pendulum_swingup.gif)
-![Project Demo](demo/inverted_pendulum.gif)
-
-
 
 # 1.1 Background
 The control of nonlinear dynamic systems is a central challenge in engineering. Among such systems, the inverted pendulum stands as a classic problem, exemplifying the difficulties of controlling inherently unstable systems with nonlinear dynamics. Characterized by its open-loop and closed-loop instability, the inverted pendulum has become a fundamental benchmark in control engineering. It is widely used to test, evaluate, and refine both classical and contemporary control techniques. 
@@ -16,6 +13,10 @@ The goal is to develop a stable inverted pendulum setup by designing a classic P
 - Design and develop an inverted pendulum system
 - Apply control methods and techniques to the inverted pendulum system
 - disturbance rejection, robustness, and swing-up
+
+![Project Demo](demo/inverted_pendulum.gif)
+
+
 
 # 1.3 Materials and Component Specifications
 
